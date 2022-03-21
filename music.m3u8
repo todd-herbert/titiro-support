@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
-https://i.mjh.nz/nz/tv.51.m3u8
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv_2.m3u8
 
 #EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
 https://i.mjh.nz/nz/tv.68.m3u8
