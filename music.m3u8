@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
-https://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/nz/tv.51.m3u8
 
 #EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
-https://i.mjh.nz/nz/tv.68.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/nz/tv.68.m3u8
 
 #EXTINF:-1 tvg-id="tv.juice" tvg-logo="https://i.mjh.nz/.images/tv.juice.png",Juice TV
-https://i.mjh.nz/nz/tv.juice.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/nz/tv.juice.m3u8
