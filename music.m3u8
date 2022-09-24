@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv_2.m3u8
+#EXTINF:-1 tvg-id="mjh-edge-tv" channel-id="mjh-edge-tv" tvg-logo="https://i.mjh.nz/.images/edge-tv.png",The Edge TV
+https://i.mjh.nz/edge-tv.m3u8
 
-#EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
-https://i.mjh.nz/nz/tv.68.m3u8
+#EXTINF:-1 tvg-id="mjh-breeze-tv" channel-id="mjh-breeze-tv" tvg-logo="https://i.mjh.nz/.images/breeze-tv.png",BREEZE TV
+https://i.mjh.nz/breeze-tv.m3u8
 
-#EXTINF:-1 tvg-id="tv.juice" tvg-logo="https://i.mjh.nz/.images/tv.juice.png",Juice TV
-https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-id="mjh-juice-tv" channel-id="mjh-juice-tv" tvg-logo="https://i.mjh.nz/.images/juice-tv.png",Juice TV
+https://i.mjh.nz/juice-tv.m3u8
