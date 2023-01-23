@@ -9,5 +9,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bc
 #EXTINF:-1 channel-id="mjh-juice-tv" tvg-id="mjh-juice-tv" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" group-title="Music" ,Juice TV
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 
-#EXTINF:-1 channel-id="mjh-juice-tv" tvg-id="mjh-juice-tv" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" group-title="Music" ,Juice TV ALT
+#EXTINF:-1 channel-id="mjh-juice-tv2" tvg-id="mjh-juice-tv2" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" group-title="Music" ,Juice TV ALT
 https://juicex.nz/hls/mystream.m3u8
